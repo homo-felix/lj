@@ -3,13 +3,8 @@ var counter = 3;
 function thumbup() {
  counter = counter + 1;
  
- document.getElementById("votes")
+ document.getElementById("likes")
   .innerHTML = counter + " votes";
 }
 
-function downvote() {
- counter = counter - 1;
- 
- document.getElementById("votes")
-  .innerHTML = counter + " votes";
-}
+
