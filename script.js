@@ -4,7 +4,7 @@ function thumbup() {
  counter = counter + 1;
  
  document.getElementById("likes")
-  .innerHTML = counter + " votes";
+  .innerHTML = counter + " likes";
 }
 
 
