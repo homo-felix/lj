@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<script>
-var part1 = "We're in here for ";
-var part2 = "JavaScript";
-document.write(part1 + part2);
-</script>
-</body>
-</html>
+var counter=0;
+function sayHello(){counter++;
+document.getElementById("");
+document.innerHTML="You've waved"+counter+" times";}
