@@ -1,6 +1,6 @@
 var counter = 3;
 
-function thumup() {
+function thumbup() {
  counter = counter + 1;
  
  document.getElementById("votes")
