@@ -1,4 +1,4 @@
 var counter=0;
-function sayHello(){counter=counter++;
+function sayHello(){counter=counter+1;
 document.getElementById("hey");
-.innerHTML="You've waved"+counter+" times";}
+.innerHTML="You\'ve waved"+counter+" times";}
