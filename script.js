@@ -5,7 +5,7 @@ function likesF(item) {
  likesV.push(item);
  
  document.getElementById("likesP").innerHTML = likesV.length + " likes";
- console.log(likesV);
+ return(likesV);
 }
 
 
