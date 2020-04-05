@@ -1,11 +1,11 @@
 var likesV = [];
-var like = {rq:5}
+var like = {}
 
 function likesF(item) {
  likesV.push(item);
  
  document.getElementById("likesP")
-  .innerHTML = likesV.length + " likes";
+  .innerHTML = str(likesV.length) + " likes";
 }
 
 
