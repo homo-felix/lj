@@ -1,10 +1,10 @@
-var counter = [];
+var likesV = [];
 
 function likesF(item) {
- counter.push(item);
+ likesV.push(item);
  
  document.getElementById("likesP")
-  .innerHTML = counter.length;
+  .innerHTML = likesV.length;
 }
 
 
