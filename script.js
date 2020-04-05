@@ -1,6 +1,6 @@
 var counter = ["like"];
 
-function likesF(likeIt) {
+function likesF(1) {
  counter.push(like);
  
  document.getElementById("likesP")
