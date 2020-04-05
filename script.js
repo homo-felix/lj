@@ -1,7 +1,7 @@
-var counter = ["like"];
+var counter = [];
 
-function likesF(1) {
- counter.push(like);
+function likesF(item) {
+ counter.push(item);
  
  document.getElementById("likesP")
   .innerHTML = counter.length;
