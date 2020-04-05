@@ -1,10 +1,10 @@
-var counter = 3;
+var counter = ["like"];
 
-function thumbup() {
- counter = counter + 1;
+function likesF(likeIt) {
+ counter.push(like);
  
- document.getElementById("likes")
-  .innerHTML = counter + " likes";
+ document.getElementById("likesP")
+  .innerHTML = counter.length;
 }
 
 
