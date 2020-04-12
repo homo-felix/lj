@@ -23,6 +23,7 @@ input{color:gray;}
 
 .content{
 float:left;
+clear:left;
 background-color:white;
 margin:0 300px 0 0;
 padding:20px;
@@ -31,9 +32,18 @@ border-color:gray;
 
 .link-comment{
 float:right;
+clear:right;
 width:280px;
 margin:5px;
 padding:10px;
 border-radius:5px;
 border-color:gray;
+}
+
+.footer-links{
+float:left;
+}
+
+.footer-functions{
+float:right;
 }
