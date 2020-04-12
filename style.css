@@ -21,7 +21,10 @@ input{color:gray;}
 .post-title{font-weight:bold;}
 .post-date{color:gray;}
 
-.content{
+*{
+box-sizing:border-box;
+}
+.container{
 float:left;
 width:66.66%;
 background-color:white;
@@ -37,6 +40,12 @@ margin:5px;
 padding:10px;
 border-radius:5px;
 border-color:gray;
+}
+
+.content::after{
+content:"";
+clear:both;
+display:table;
 }
 
 .footer-links{
