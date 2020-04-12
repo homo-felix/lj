@@ -1,7 +1,7 @@
 body{margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
 
 #header{background-color:black;min-height:150px;}
-.header-title{color:white;text-align:left;font-weight:bold;padding:10px;font-size:30px;}
+.header-title{color:white;text-align:left;font-weight:bold;font-size:30px;}
 .header-list li{display:inline;padding:10px;}
 
 .header-list{color:white;}
@@ -9,7 +9,7 @@ p {
  line-height:1.5;
 }
 
-img{height:50px;width:50px;border-radius:50px;margin:30px 10px 10px 30px;}
+img{height:50px;width:50px;border-radius:50px;margin:10px;}
 
 button{border-radius:5px;margin:10px;padding:2px;border-color:gray;background-color:white}
 
@@ -20,6 +20,6 @@ input{color:gray;}
 .post-date{color:gray;}
 .content{
 background-color:white;
-margin-right:300px;
+margin:300px 0 0 0;
 padding:20px;
 }
