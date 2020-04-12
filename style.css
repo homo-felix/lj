@@ -4,7 +4,7 @@ body{text-align:left;background-color:lightgrey;min-height:450px;}
 .header-title{color:white;text-align:left;font-weight:bold;padding:10px;font-size:30px;}
 .header-list li{display:inline;padding:10px;}
 
-.header-list{color:white;}
+a{border-color:white;}
 p {
  line-height:1.5;
 }
