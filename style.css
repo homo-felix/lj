@@ -1,13 +1,11 @@
-body{margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
+body{line-height:1.5;margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
 
 #header{background-color:black;min-height:150px;}
 .header-title{color:white;text-align:left;font-weight:bold;font-size:30px;}
 .header-list li{display:inline;padding:10px;}
 
 .header-list{color:white;}
-p {
- line-height:1.5;
-}
+
 
 img{height:150px;width:200px;border-radius:5px;margin:10px;}
 .author-img{height:50px;width:50px;border-radius:50px;margin:10px;}
