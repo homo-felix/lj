@@ -39,7 +39,8 @@ width:30%;
 margin:5px;
 padding:10px;
 border-radius:5px;
-border-color:gray;
+border-color:#aaa;
+background-color:#eee;
 }
 
 .content::after{
@@ -49,7 +50,11 @@ display:table;
 }
 
 .footer-links{
+float:left;
+width:45%
 }
 
 .footer-functions{
+float:right;
+width:50%;
 }
