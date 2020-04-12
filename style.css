@@ -18,7 +18,7 @@ input{color:gray;}
 
 .post-title{font-weight:bold;}
 .post-date{color:gray;}
-.post,.about{
+.content{
 background-color:white;
 margin-left:300px;
 }
