@@ -19,12 +19,15 @@ input{color:gray;}
 
 .post-title{font-weight:bold;}
 .post-date{color:gray;}
+
 .content{
+floate:left;
 background-color:white;
 margin:0 300px 0 0;
 padding:20px;
 border-color:gray;
 }
+
 .link-comment{
 float:right,top;
 width:280px;
