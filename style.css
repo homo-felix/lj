@@ -1,15 +1,15 @@
-body{margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
+body{text-align:left;background-color:lightgrey;min-height:450px;}
 
 #header{background-color:black;min-height:150px;}
-.header-title{color:white;text-align:left;font-style:italic;font-weight:bold;padding:10px;font-size:30px;}
+.header-title{color:white;text-align:left;font-weight:bold;padding:10px;font-size:30px;}
 .header-list li{display:inline;padding:10px;}
 
-a{color:reverse;}
+a{color:white;}
 p {
  line-height:1.5;
 }
 
-img{height:50px;width:50px;border-radius:50px;padding:10px;margin:10px;}
+img{height:50px;width:50px;border-radius:50px;padding-top:30px;margin:10px;}
 
 button{border-radius:5px;margin:10px;padding:2px;border-color:gray;background-color:white}
 
@@ -20,7 +20,5 @@ input{color:gray;}
 .post-date{color:gray;}
 .post,.about{
 background-color:white;
-max-width:800px;
-margin-right:100px;
-
+margin-left:100px;
 }
