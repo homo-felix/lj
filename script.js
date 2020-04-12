@@ -1,4 +1,4 @@
-var likesV = [];
+var likesV = [1,2];
 var like = {};
 
 function likesF(item) {
