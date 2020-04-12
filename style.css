@@ -16,9 +16,7 @@ img{height:150px;width:200px;border-radius:5px;margin:10px;}
 button{border-radius:5px;margin:10px;padding:2px;border-color:gray;background-color:white}
 
 input[type=text]{color:gray;border:none;border-bottom:solid;
-resize:;-wenkit-transition:width 0.5s ease-in-out;}
-input[type=text]:focus{
-width=30%;}
+resize:vertical;overflow:auto;}
 
 
 .post-title{font-weight:bold;}
