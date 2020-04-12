@@ -1,9 +1,10 @@
-body{font-family:arial;margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
+body{margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
 
 #header{background-color:black;min-height:120px;}
-.header-title{color:white;text-align:left;font-style:italic;font-weight:bold;padding:10px;font-size:45px;}
+.header-title{color:white;text-align:left;font-style:italic;font-weight:bold;padding:10px;font-size:30px;}
 .header-list li{color:white;display:inline;padding-right:20px;}
 
+a{color:white;}
 p {
  line-height:1.5;
 }
@@ -19,7 +20,8 @@ input{color:gray;}
 .post-date{color:gray;
 letter-spacing:0.1em;}
 .post,.about{
+background-color:white;
 max-width:800px;
-margin: 0 auto;
-padding: 60px 0;
+margin-left:100px;
+padding: 30px 0;
 }
