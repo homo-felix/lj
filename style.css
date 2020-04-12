@@ -27,19 +27,22 @@ box-sizing:border-box;
 .container{
 float:left;
 width:65%;
+min-height:500px;
 background-color:white;
 margin:0;
 padding:20px;
 border-color:gray;
+
 }
 
 .link-comment{
 float:right;
 width:33%;
+min-height:200px;
 margin:1%;
 padding:10px;
 border-radius:5px;
-background-color:#eee;
+background-color:#ddd;
 }
 
 .third-box{
