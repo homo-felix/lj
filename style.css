@@ -20,12 +20,15 @@ input{color:gray;}
 .post-date{color:gray;}
 .content{
 background-color:white;
-margin:0 300px 0 0;
-padding:20px;
+margin:10px 300px 10px 10px;
+padding:0;
+border-color:gray;
 }
 .link-comment{
-width:270px;
-padding:15px;
-display:block;
-float:left;
+float:right;
+width:280px;
+margin:10px 10px 10px 0px;
+padding:10px;
+border-radius:5px;
+border-color:gray;
 }
