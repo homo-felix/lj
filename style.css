@@ -9,7 +9,8 @@ p {
  line-height:1.5;
 }
 
-img{height:50px;width:50px;border-radius:50px;margin:10px;}
+#author-img{height:50px;width:50px;border-radius:50px;margin:10px;}
+img{height:150px;width:200px;border-radius:5px;margin:10px;}
 
 button{border-radius:5px;margin:10px;padding:2px;border-color:gray;background-color:white}
 
