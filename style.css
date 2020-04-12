@@ -9,7 +9,7 @@ p {
  line-height:1.5;
 }
 
-img{height:50px;width:50px;border-radius:50px;margin:30px;}
+img{height:50px;width:50px;border-radius:50px;margin:30px 10px 10px 30px;}
 
 button{border-radius:5px;margin:10px;padding:2px;border-color:gray;background-color:white}
 
@@ -20,5 +20,6 @@ input{color:gray;}
 .post-date{color:gray;}
 .content{
 background-color:white;
-margin-left:300px;
+margin-right:300px;
+padding:20px;
 }
