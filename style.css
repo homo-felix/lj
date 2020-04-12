@@ -26,7 +26,7 @@ box-sizing:border-box;
 }
 .container{
 float:left;
-width:66.66%;
+width:65%;
 background-color:white;
 margin:0;
 padding:20px;
@@ -35,7 +35,7 @@ border-color:gray;
 
 .link-comment{
 float:right;
-width:33.33%;
+width:30%;
 margin:5px;
 padding:10px;
 border-radius:5px;
