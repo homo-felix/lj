@@ -9,8 +9,8 @@ p {
  line-height:1.5;
 }
 
-#photo-img{height:150px;width:200px;border-radius:5px;margin:10px;}
-#author-img{height:50px;width:50px;border-radius:50px;margin:10px;}
+img{height:150px;width:200px;border-radius:5px;margin:10px;}
+#author-img{float:left;height:50px;width:50px;border-radius:50px;margin:10px;}
 
 
 button{border-radius:5px;margin:10px;padding:2px;border-color:gray;background-color:white}
@@ -22,7 +22,7 @@ input{color:gray;}
 .post-date{color:gray;}
 
 .content{
-floate:left;
+float:left;
 background-color:white;
 margin:0 300px 0 0;
 padding:20px;
@@ -30,7 +30,7 @@ border-color:gray;
 }
 
 .link-comment{
-float:right,top;
+float:right;
 width:280px;
 margin:5px;
 padding:10px;
