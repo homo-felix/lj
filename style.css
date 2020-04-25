@@ -1,4 +1,6 @@
-body{line-height:1.5;margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
+body{
+font-family:Courier New;
+line-height:1.5;margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
 
 #header{background-color:black;min-height:150px;}
 .header-title{color:white;text-align:left;font-weight:bold;font-size:30px;}
