@@ -17,6 +17,8 @@ padding: 10px;
 
 
 .header-title{text-align:left;
+font-size:50px;
+font-weight:bold;
 }
 .header-list li{display:inline;
 padding:10px;}
