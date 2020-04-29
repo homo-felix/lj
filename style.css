@@ -38,6 +38,9 @@ padding:10px;}
 .post-title{font-weight:bold;}
 .post-date{filter: opacity(50%);}
 
+*{
+box-sizing:border-box;}
+
 .container{
 border: solid 1px black;
 border-radius: 20px;
