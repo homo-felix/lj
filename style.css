@@ -81,14 +81,14 @@ display:table;
 float:left;
 width:48%;
 padding:50px;
-height:400px;
+height:300px;
 }
 
 #foot2{
 float:right;
 width:48%;
 padding:50px;
-height:400px;
+height:300px;
 }
 
 .footer::after{
