@@ -64,6 +64,7 @@ filter:opacity(30%);
 
 #cont3{
 float:right;
+clear:right;
 width:30%;
 min-height:300px;
 filter:opacity(10%);
