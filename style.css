@@ -70,11 +70,7 @@ filter:opacity(10%);
 
 }
 
-.content::after{
-content:"->->->";
-clear:both;
-display:table;
-}
+
 
 #foot1{
 float:left;
