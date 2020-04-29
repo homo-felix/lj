@@ -30,9 +30,9 @@ width:150px;
 border-radius:5px;
 margin:10px;}
 
-.author-img{height:50px;
-width:50px;
-border-radius:50px;
+.author-img{height:100px;
+width:100px;
+border-radius:100px;
 margin:30px 10px 10px 30px;}
 
 
@@ -54,7 +54,7 @@ margin:10px;
 
 #cont1{
 float:left;
-width:60%;
+width:65%;
 min-height:500px;
 
 }
@@ -89,7 +89,7 @@ padding:50px;
 
 #foot2{
 float:right;
-width:50%;
+width:55%;
 padding:50px;
 }
 
