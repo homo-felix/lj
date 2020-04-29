@@ -1,6 +1,15 @@
 body{
-font-family:Courier New;
-line-height:1.5;margin:0;text-align:left;background-color:lightgrey;min-height:450px;}
+font-family:Cursive;
+line-height:1.5;
+font-size:40px;
+margin:0;
+padding:10px
+text-align:left;
+background-color:darkGreen;
+color:pink;
+filter: contrast(200%) brightness(200%) opacity(50%);
+min-height:450px;
+}
 
 #header{background-color:black;min-height:150px;}
 .header-title{color:white;text-align:left;font-weight:bold;font-size:30px;}
