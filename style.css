@@ -35,7 +35,7 @@ padding:10px;}
 
 
 .post-title{font-weight:bold;}
-.post-date{filter: opacity(50%);}
+.post-date{filter: opacity(5%);}
 
 
 .container{
@@ -56,7 +56,7 @@ float:right;
 clear:right;
 width:33%;
 min-height:500px;
-filter:opacity(30%);
+filter:opacity(6%);
 }
 
 #cont3{
@@ -64,7 +64,7 @@ float:right;
 clear:right;
 width:33%;
 min-height:500px;
-filter:opacity(10%);
+filter:opacity(3%);
 
 }
 
