@@ -78,14 +78,14 @@ display:table;
 float:left;
 width:36%;
 padding:10px 50px 10px 50px;
-height:300px;
+height:350px;
 }
 
 #foot2{
 float:right;
 width:40%;
 padding:10px 50px 10px 50px;
-height:300px;
+height:350px;
 }
 
 .footer::after{
