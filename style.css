@@ -68,14 +68,17 @@ filter:opacity(30%);
 
 #cont3{
 float:right;
-clear:right;
 width:30%;
 min-height:300px;
 filter:opacity(10%);
 
 }
 
-
+.content::after{
+content:"";
+clear:both;
+display:table;
+}
 
 #foot1{
 float:left;
