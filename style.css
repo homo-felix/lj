@@ -50,22 +50,23 @@ margin:10px;
 
 #cont1{
 float:left;
-width:60%;
+width:63%;
 
 }
 
 #cont2{
 float:right;
-width:30%;
-min-height:400px;
+clear:right;
+width:33%;
+min-height:500px;
 filter:opacity(30%);
 }
 
 #cont3{
 float:right;
 clear:right;
-width:30%;
-min-height:400px;
+width:33%;
+min-height:500px;
 filter:opacity(10%);
 
 }
@@ -80,14 +81,14 @@ display:table;
 float:left;
 width:48%;
 padding:50px;
-height:120px;
+height:400px;
 }
 
 #foot2{
 float:right;
 width:48%;
 padding:50px;
-height:120px;
+height:400px;
 }
 
 .footer::after{
