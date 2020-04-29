@@ -75,20 +75,20 @@ filter:opacity(10%);
 }
 
 .content::after{
-content:"";
+content:"->->->";
 clear:both;
 display:table;
 }
 
 #foot1{
 float:left;
-width:45%;
+width:40%;
 padding:50px;
 }
 
 #foot2{
 float:right;
-width:50%;
+width:40%;
 padding:50px;
 }
 
