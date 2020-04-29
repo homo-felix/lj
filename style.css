@@ -3,15 +3,14 @@ font-family:Cursive;
 line-height:1.5;
 font-size:40px;
 margin:0;
-padding:10px
+padding:10px;
 text-align:left;
 background-color:darkGreen;
 color:pink;
-filter: contrast(200%) brightness(200%) opacity(50%);
-min-height:450px;
+
 }
 
-#header{color:white;min-height:150px;}
+#header{color:white;}
 .header-title{text-align:left;
 font-weight:bold;
 font-size:60px;}
